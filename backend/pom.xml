@@ -11,6 +11,8 @@
         <version>${revision}</version>
     </parent>
 
+    <packaging>war</packaging>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

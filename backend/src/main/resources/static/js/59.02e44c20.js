@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontend"]=self["webpackChunkfrontend"]||[]).push([[59],{9059:function(n,e,s){s.r(e),s.d(e,{default:function(){return c}});var t=function(){var n=this,e=n._self._c;return e("div",{staticClass:"hello"},[e("h1",[n._v(n._s(n.msg))]),e("p",[n._v(" 欢迎来到测试平台！ ")])])},l=[],r={name:"HelloWorld",props:{msg:String}},u=r,a=s(1001),o=(0,a.Z)(u,t,l,!1,null,"abc4a06a",null),c=o.exports}}]);
+//# sourceMappingURL=59.02e44c20.js.map
